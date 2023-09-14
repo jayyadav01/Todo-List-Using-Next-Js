@@ -1,5 +1,5 @@
 'use client'
-import React, { useRef, useState } from 'react'
+import React, { useRef, useState } from 'react';
 import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 
